@@ -20,6 +20,3 @@ Se evaluó el modelo mediante una matriz de confusión, que permitió identifica
 - Desempeño moderado para la **clase 0**, aunque con errores hacia la clase 2.
 - Bajo rendimiento en la **clase 1**, con mayoría de predicciones erróneas como clase 2.
 
-```bash
-
-
